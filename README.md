@@ -1,8 +1,8 @@
 # Analog-GMP
-An necessary ingredient for cross-chain development utilizing the Analog Protocol
+An necessary ingredient for cross-chain development utilizing the Analog Protocol.
 
 ## Guides
-For full guides check out my YouTube videos.
+Full guides check out my YouTube videos.
 
 <a href ="https://youtu.be/PAVhdStvSfs?si=IcMN6MjRGeugJbhG">Build, Deploy & Verify a Smart Contract using Analog GMP interfaces on Sepolia Testnet</a>
 
